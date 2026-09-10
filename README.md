@@ -67,25 +67,6 @@ Within the 43,860.77 ha study envelope, **38,006.16 ha (86.65%)** suffered net f
 * **Compensatory Reforestation Target (OECC):** 4,500 ha replanting scheme projected to fix $1,150,000\text{ tCO}_2\text{e}$ over 30 years.
 * **UNEP 2026 Alignment:** Case evidence demonstrating that preventive bio-stabilization yields a 4:1 economic return compared to reactive disaster response.
 
-## Citation
-
-If you use this dataset, methodology, or code pipeline in your research or technical consultancy, please cite:
-
-```bibtex
-@techreport{flores_niebla_2026,
-  author       = {Flores Yarihuaman, Kelvin Jesus},
-  title        = {{Multi-spectral Burn Severity Assessment, Post-fire 
-                   Hydrological Risk, and Soil Erosion Mitigation Plan: 
-                   The 2026 Niebla Megafire (Huelva, Spain)}},
-  month        = sep,
-  year         = 2026,
-  publisher    = {Zenodo},
-  version      = {1.0.0},
-  doi          = {10.5281/zenodo.22698544},
-  url          = {[https://doi.org/10.5281/zenodo.22698544](https://doi.org/10.5281/zenodo.22698544)}
-}
----
-
 ## 💻 Tech Stack & Pipeline Architecture
 
 ```python
