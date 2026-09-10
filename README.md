@@ -3,6 +3,7 @@
 **Author:** Kelvin Jesus Flores Yarihuaman — Environmental Engineer (Data Science & GIS)  
 **Regulatory Framework:** RDL 15/2022 (Spain) | USGS/EFFIS Protocols | IFN4 Carbon Accounting  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22698544.svg)](https://doi.org/10.5281/zenodo.22698544)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![QGIS](https://img.shields.io/badge/GIS-QGIS%203.x-brightgreen.svg)](https://qgis.org/)
@@ -66,6 +67,8 @@ Within the 43,860.77 ha study envelope, **38,006.16 ha (86.65%)** suffered net f
 * **Annual Sequestration Deficit:** $-\mathbf{92,000\text{ tCO}_2/\text{year}}$.
 * **Compensatory Reforestation Target (OECC):** 4,500 ha replanting scheme projected to fix $1,150,000\text{ tCO}_2\text{e}$ over 30 years.
 * **UNEP 2026 Alignment:** Case evidence demonstrating that preventive bio-stabilization yields a 4:1 economic return compared to reactive disaster response.
+
+---
 
 ## 💻 Tech Stack & Pipeline Architecture
 
